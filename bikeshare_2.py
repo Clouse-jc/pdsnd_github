@@ -49,9 +49,7 @@ def load_data(city, month, day):
     """
     
     #sets file name based on city
-    fileName = ''
-    if(city == 'chicago'):
-        fileName = 'chicago.csv'
+    fileName = 'chicago.csv'
     if(city == 'new york city'):
         fileName = 'new_york_city.csv'
     if(city == 'washington'):
