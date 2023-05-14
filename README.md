@@ -5,7 +5,8 @@
 Bikeshare
 
 ### Description
-Bikeshare analyzes transit data from Washington DC, Chicago or, New York City and provides statistics as well as showing the raw data
+Bikeshare analyzes transit data from Washington DC, Chicago or, New York City and provides statistics
+It can also display the raw data 5 rows at a time
 
 ### Files used
 bikeshare_2.py
